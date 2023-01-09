@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    border: 0;
+    padding: 0;
+
+    padding: 2px;
+}
+
+#tableSection {
+    font-size: 1.1em;
+    background-color: rgb(235, 234, 220);
+}
+
+#tableSection table {
+    background-color: rgb(74, 183, 200);
+}
+
+#tableSection table, #tableSection td, #tableSection th{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#tableSection th{
+    cursor: pointer;
+    color: rgb(34, 20, 13);
+    border-color: rgb(67, 90, 131);
+}
